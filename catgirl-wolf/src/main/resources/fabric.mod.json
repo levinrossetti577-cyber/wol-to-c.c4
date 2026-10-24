@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "catgirlwolf",
+	"version": "${version}",
+	"name": "Catgirl Wolf",
+	"description": "Ersetzt den Wolf optisch durch ein spielergroßes Anime-Catgirl mit eigenem 3D-Modell, Sitzpose und Miau-Lauten. Alle Wolfsfunktionen bleiben erhalten.",
+	"authors": ["Du"],
+	"license": "MIT (Code); Audio und Textur siehe README",
+	"icon": "assets/catgirlwolf/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["de.catgirlwolf.CatgirlWolf"],
+		"client": ["de.catgirlwolf.client.CatgirlWolfClient"]
+	},
+	"mixins": ["catgirlwolf.mixins.json"],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

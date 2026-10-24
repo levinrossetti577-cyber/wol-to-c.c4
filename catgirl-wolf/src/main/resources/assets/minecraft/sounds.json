@@ -1,0 +1,627 @@
+{
+ "entity.wolf.ambient": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.ambient",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_idle_1",
+    "weight": 3
+   },
+   {
+    "name": "catgirlwolf:meow_idle_2",
+    "weight": 3
+   },
+   {
+    "name": "catgirlwolf:meow_idle_3",
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_bark_1",
+    "weight": 2
+   }
+  ]
+ },
+ "entity.wolf.growl": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.growl",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_growl_1",
+    "pitch": 0.92
+   },
+   {
+    "name": "catgirlwolf:meow_growl_1",
+    "pitch": 0.84,
+    "volume": 0.9
+   }
+  ]
+ },
+ "entity.wolf.hurt": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.hurt",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_hurt_1",
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_idle_2",
+    "pitch": 1.12
+   }
+  ]
+ },
+ "entity.wolf.death": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.death",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_death_1"
+   }
+  ]
+ },
+ "entity.wolf.whine": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.whine",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_whine_1"
+   },
+   {
+    "name": "catgirlwolf:meow_whine_2"
+   }
+  ]
+ },
+ "entity.wolf.pant": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.pant",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_pant_1",
+    "volume": 0.7,
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_whine_2",
+    "volume": 0.4,
+    "pitch": 0.95
+   }
+  ]
+ },
+ "entity.wolf_puglin.ambient": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.ambient",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_idle_1",
+    "weight": 3
+   },
+   {
+    "name": "catgirlwolf:meow_idle_2",
+    "weight": 3
+   },
+   {
+    "name": "catgirlwolf:meow_idle_3",
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_bark_1",
+    "weight": 2
+   }
+  ]
+ },
+ "entity.wolf_puglin.growl": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.growl",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_growl_1",
+    "pitch": 0.92
+   },
+   {
+    "name": "catgirlwolf:meow_growl_1",
+    "pitch": 0.84,
+    "volume": 0.9
+   }
+  ]
+ },
+ "entity.wolf_puglin.hurt": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.hurt",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_hurt_1",
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_idle_2",
+    "pitch": 1.12
+   }
+  ]
+ },
+ "entity.wolf_puglin.death": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.death",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_death_1"
+   }
+  ]
+ },
+ "entity.wolf_puglin.whine": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.whine",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_whine_1"
+   },
+   {
+    "name": "catgirlwolf:meow_whine_2"
+   }
+  ]
+ },
+ "entity.wolf_puglin.pant": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.pant",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_pant_1",
+    "volume": 0.7,
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_whine_2",
+    "volume": 0.4,
+    "pitch": 0.95
+   }
+  ]
+ },
+ "entity.wolf_sad.ambient": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.ambient",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_idle_1",
+    "weight": 3
+   },
+   {
+    "name": "catgirlwolf:meow_idle_2",
+    "weight": 3
+   },
+   {
+    "name": "catgirlwolf:meow_idle_3",
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_bark_1",
+    "weight": 2
+   }
+  ]
+ },
+ "entity.wolf_sad.growl": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.growl",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_growl_1",
+    "pitch": 0.92
+   },
+   {
+    "name": "catgirlwolf:meow_growl_1",
+    "pitch": 0.84,
+    "volume": 0.9
+   }
+  ]
+ },
+ "entity.wolf_sad.hurt": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.hurt",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_hurt_1",
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_idle_2",
+    "pitch": 1.12
+   }
+  ]
+ },
+ "entity.wolf_sad.death": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.death",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_death_1"
+   }
+  ]
+ },
+ "entity.wolf_sad.whine": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.whine",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_whine_1"
+   },
+   {
+    "name": "catgirlwolf:meow_whine_2"
+   }
+  ]
+ },
+ "entity.wolf_sad.pant": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.pant",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_pant_1",
+    "volume": 0.7,
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_whine_2",
+    "volume": 0.4,
+    "pitch": 0.95
+   }
+  ]
+ },
+ "entity.wolf_angry.ambient": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.ambient",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_idle_1",
+    "weight": 3
+   },
+   {
+    "name": "catgirlwolf:meow_idle_2",
+    "weight": 3
+   },
+   {
+    "name": "catgirlwolf:meow_idle_3",
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_bark_1",
+    "weight": 2
+   }
+  ]
+ },
+ "entity.wolf_angry.growl": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.growl",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_growl_1",
+    "pitch": 0.92
+   },
+   {
+    "name": "catgirlwolf:meow_growl_1",
+    "pitch": 0.84,
+    "volume": 0.9
+   }
+  ]
+ },
+ "entity.wolf_angry.hurt": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.hurt",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_hurt_1",
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_idle_2",
+    "pitch": 1.12
+   }
+  ]
+ },
+ "entity.wolf_angry.death": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.death",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_death_1"
+   }
+  ]
+ },
+ "entity.wolf_angry.whine": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.whine",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_whine_1"
+   },
+   {
+    "name": "catgirlwolf:meow_whine_2"
+   }
+  ]
+ },
+ "entity.wolf_angry.pant": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.pant",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_pant_1",
+    "volume": 0.7,
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_whine_2",
+    "volume": 0.4,
+    "pitch": 0.95
+   }
+  ]
+ },
+ "entity.wolf_grumpy.ambient": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.ambient",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_idle_1",
+    "weight": 3
+   },
+   {
+    "name": "catgirlwolf:meow_idle_2",
+    "weight": 3
+   },
+   {
+    "name": "catgirlwolf:meow_idle_3",
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_bark_1",
+    "weight": 2
+   }
+  ]
+ },
+ "entity.wolf_grumpy.growl": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.growl",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_growl_1",
+    "pitch": 0.92
+   },
+   {
+    "name": "catgirlwolf:meow_growl_1",
+    "pitch": 0.84,
+    "volume": 0.9
+   }
+  ]
+ },
+ "entity.wolf_grumpy.hurt": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.hurt",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_hurt_1",
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_idle_2",
+    "pitch": 1.12
+   }
+  ]
+ },
+ "entity.wolf_grumpy.death": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.death",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_death_1"
+   }
+  ]
+ },
+ "entity.wolf_grumpy.whine": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.whine",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_whine_1"
+   },
+   {
+    "name": "catgirlwolf:meow_whine_2"
+   }
+  ]
+ },
+ "entity.wolf_grumpy.pant": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.pant",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_pant_1",
+    "volume": 0.7,
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_whine_2",
+    "volume": 0.4,
+    "pitch": 0.95
+   }
+  ]
+ },
+ "entity.wolf_big.ambient": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.ambient",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_idle_1",
+    "weight": 3
+   },
+   {
+    "name": "catgirlwolf:meow_idle_2",
+    "weight": 3
+   },
+   {
+    "name": "catgirlwolf:meow_idle_3",
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_bark_1",
+    "weight": 2
+   }
+  ]
+ },
+ "entity.wolf_big.growl": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.growl",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_growl_1",
+    "pitch": 0.92
+   },
+   {
+    "name": "catgirlwolf:meow_growl_1",
+    "pitch": 0.84,
+    "volume": 0.9
+   }
+  ]
+ },
+ "entity.wolf_big.hurt": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.hurt",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_hurt_1",
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_idle_2",
+    "pitch": 1.12
+   }
+  ]
+ },
+ "entity.wolf_big.death": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.death",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_death_1"
+   }
+  ]
+ },
+ "entity.wolf_big.whine": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.whine",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_whine_1"
+   },
+   {
+    "name": "catgirlwolf:meow_whine_2"
+   }
+  ]
+ },
+ "entity.wolf_big.pant": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.pant",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_pant_1",
+    "volume": 0.7,
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_whine_2",
+    "volume": 0.4,
+    "pitch": 0.95
+   }
+  ]
+ },
+ "entity.wolf_cute.ambient": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.ambient",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_idle_1",
+    "weight": 3
+   },
+   {
+    "name": "catgirlwolf:meow_idle_2",
+    "weight": 3
+   },
+   {
+    "name": "catgirlwolf:meow_idle_3",
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_bark_1",
+    "weight": 2
+   }
+  ]
+ },
+ "entity.wolf_cute.growl": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.growl",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_growl_1",
+    "pitch": 0.92
+   },
+   {
+    "name": "catgirlwolf:meow_growl_1",
+    "pitch": 0.84,
+    "volume": 0.9
+   }
+  ]
+ },
+ "entity.wolf_cute.hurt": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.hurt",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_hurt_1",
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_idle_2",
+    "pitch": 1.12
+   }
+  ]
+ },
+ "entity.wolf_cute.death": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.death",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_death_1"
+   }
+  ]
+ },
+ "entity.wolf_cute.whine": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.whine",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_whine_1"
+   },
+   {
+    "name": "catgirlwolf:meow_whine_2"
+   }
+  ]
+ },
+ "entity.wolf_cute.pant": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.pant",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_pant_1",
+    "volume": 0.7,
+    "weight": 2
+   },
+   {
+    "name": "catgirlwolf:meow_whine_2",
+    "volume": 0.4,
+    "pitch": 0.95
+   }
+  ]
+ },
+ "entity.wolf.howl": {
+  "replace": true,
+  "subtitle": "subtitles.catgirlwolf.howl",
+  "sounds": [
+   {
+    "name": "catgirlwolf:meow_howl_1"
+   }
+  ]
+ }
+}

@@ -1,0 +1,20 @@
+WICHTIG: Modrinth braucht die fertige .jar-Datei, nicht diese ZIP-Datei.
+
+Diese ZIP enthält den Projektquellcode plus einen GitHub-Actions-Buildablauf.
+Da der Build hier nicht gegen Minecraft 26.3 ausgeführt werden konnte, ist die Mod
+noch NICHT als getestete, fertige JAR verifiziert.
+
+So erzeugst du die JAR online:
+1. Erstelle auf GitHub ein neues Repository.
+2. Lade den INHALT dieses Projektordners (den Ordner catgirl-wolf selbst nicht als
+   verschachtelten Unterordner) in das Repository hoch.
+3. Öffne im Repository den Tab Actions.
+4. Wähle „Build Catgirl Wolf“ und klicke „Run workflow“.
+5. Wenn der Lauf erfolgreich ist, öffne ihn und lade unter Artifacts
+   „catgirl-wolf-modrinth-jar“ herunter.
+6. Entpacke das Artifact. Lade die Datei catgirl-wolf-1.0.0.jar bei Modrinth als
+   Projektversion hoch. NICHT die -sources.jar hochladen.
+
+Falls der Build fehlschlägt, öffne die Build-Logs. Die aktuelle Quellversion wurde
+hier nicht gegen Minecraft 26.3 kompiliert oder im Spiel getestet; ein erfolgreicher
+Online-Build ist daher zuerst erforderlich.

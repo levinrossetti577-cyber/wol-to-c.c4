@@ -1,0 +1,9 @@
+{
+	"required": true,
+	"package": "de.catgirlwolf.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": ["LivingEntityDimensionsMixin"],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
